@@ -1,0 +1,485 @@
+{
+  "users": [
+    {
+      "id": "3d44",
+      "login": "Maksim",
+      "password": "424991",
+      "registed_at": "2033-08-08 16:10",
+      "role_id": 0
+    },
+    {
+      "id": "a50c",
+      "login": "Ksenia",
+      "password": "22218991",
+      "registed_at": "2033-05-26 21:17",
+      "role_id": 1
+    },
+    {
+      "login": "Igor",
+      "password": "123456789",
+      "registed_at": "2033-09-06 16:42",
+      "role_id": 2,
+      "id": "_kuxiIz"
+    }
+  ],
+  "roles": [
+    {
+      "id": "0",
+      "name": "Администратор"
+    },
+    {
+      "id": "1",
+      "name": "Модератор"
+    },
+    {
+      "id": "2",
+      "name": "Покупатель"
+    },
+    {
+      "id": "3",
+      "name": "Гость"
+    }
+  ],
+  "category": [
+    {
+      "id": "0",
+      "title": "Закуски",
+      "image_url": "https://sun9-40.userapi.com/impg/G85S6jDpirBJ9lKK7PlfPxAUjUj8Kub3J5a9vQ/s5l0QKATIoo.jpg?size=510x765&quality=95&sign=25c468c54fef19c081115bd17fc0d0d5&c_uniq_tag=4wzJHu886ITb9V3TISTV9cfbDbOTXiZIEatwmkFhH8U&type=album"
+    },
+    {
+      "id": "1",
+      "title": "Салаты",
+      "image_url": "https://sun9-56.userapi.com/impg/5-avgxukZnlSshgFl8N75LX8Vy-rRLcI6_KASA/crXI9I5KvRQ.jpg?size=510x680&quality=95&sign=8e456eb04f83e2d583b3d837dfc7bba1&c_uniq_tag=tZ8Ts29GR02EqPjhFENcmfzLxGstnV0UlZ8nRxVNwr0&type=album"
+    },
+    {
+      "id": "2",
+      "title": "Бургеры",
+      "image_url": "https://sun9-47.userapi.com/impg/Bff_1lXcDHCX94PPDSRC-hP6lcShKfM4taqa5g/pUDzaxrV5eo.jpg?size=807x538&quality=95&sign=9d73c0eb56e819a509fff588a5f77a00&c_uniq_tag=v4ZxkjYJddofWE2_1cfpiuKdeo2Hj1WqS-9o_jAxSGw&type=album"
+    },
+    {
+      "id": "3",
+      "title": "Пицца",
+      "image_url": "https://sun9-77.userapi.com/impg/DtPPHheO7tNaP69Q4BQ-f1MepHBG8aQmz6pj1g/bT63CMcGc8Q.jpg?size=604x596&quality=95&sign=edb4b230970d10e5c7f5852f2846e0e1&c_uniq_tag=slEOtEq6Rv8i-UftZDzQ8ZunbFCPewEi12L-ZH9hO-g&type=album"
+    },
+    {
+      "id": "4",
+      "title": "Роллы",
+      "image_url": "https://sun9-24.userapi.com/impg/_Mu6uxhEOGfPVprcnHK2WpcS7fVUb-_0oSJKPg/lFSzYrZAQFU.jpg?size=510x680&quality=95&sign=c21c2e905fb4a138f92c1b19a1797a7e&c_uniq_tag=zTFIpujwA5Fy_59y2qkTRfCTz-rW-OSgGCQsHamAOBs&type=album"
+    },
+    {
+      "id": "e4cc",
+      "title": "hhhhhhhhhhhhhhhh",
+      "image_url": "https://sun9-11.userapi.com/impg/MaJR7smE5FOfw0Ot9Yig9zcJpejLh17C1D6jtg/YYI51Gi3SoQ.jpg?size=1439x2160&quality=95&sign=086499bc7d05852914c5b776f6e82c77&type=album"
+    },
+    {
+      "id": "7729",
+      "title": "ffffffffffffffffffff",
+      "image_url": "https://sun9-11.userapi.com/impg/MaJR7smE5FOfw0Ot9Yig9zcJpejLh17C1D6jtg/YYI51Gi3SoQ.jpg?size=1439x2160&quality=95&sign=086499bc7d05852914c5b776f6e82c77&type=album"
+    }
+  ],
+  "products": [
+    {
+      "id": "004",
+      "title": "Бургер - бекон",
+      "image_url": "https://sun9-70.userapi.com/impg/rgWZ88W4n6JkDnMEo6X1b6IEKHZBOho4bUiv9g/bY5mFi9dINA.jpg?size=807x605&quality=95&sign=4cb657825f36d0ac06aa73354cb8bf7c&c_uniq_tag=Q8NrqW7cPTWYpYmPDRDkWALLDK0U-vcKALL1of4fNG0&type=album",
+      "price": "330",
+      "category_id": "2",
+      "description": "Бургер - бекон"
+    },
+    {
+      "id": "005",
+      "title": "Бургер - elite",
+      "image_url": "https://sun9-29.userapi.com/impg/nlV8zY2Ig9vuLMyLJC2UhILH0BxuMrUrgnCpfQ/cNWiz48dels.jpg?size=510x680&quality=95&sign=d1d4d0733db8d9adbc0220d523725104&c_uniq_tag=NqjKkkA6EkXe0WlGPiPBh3n6iI-x_zxCX99sRoXWY3k&type=album",
+      "price": "310",
+      "category_id": "2",
+      "description": "Бургер - elite"
+    },
+    {
+      "id": "003",
+      "title": "Пивная тарелка",
+      "image_url": "https://sun9-51.userapi.com/impg/tPFzXwqh3KKZva4q9lR-4k0_Nl8KsMmnotpMEg/sg7jXmEbwI4.jpg?size=807x538&quality=96&sign=e77eace410c058dee9dc3371172a359a&c_uniq_tag=nblT3ZG2I2ooFN9NTWchuunbo7A8VLDYlv3ho05j4ps&type=none",
+      "price": "650",
+      "category_id": "0",
+      "description": "Картофель Фри, Луковые кольца,Гренки,Крылышки барбекю) 320 грамм"
+    },
+    {
+      "id": "006",
+      "title": "Бургер Комбо плюс",
+      "image_url": "https://sun9-47.userapi.com/impg/Bff_1lXcDHCX94PPDSRC-hP6lcShKfM4taqa5g/pUDzaxrV5eo.jpg?size=807x538&quality=95&sign=9d73c0eb56e819a509fff588a5f77a00&c_uniq_tag=v4ZxkjYJddofWE2_1cfpiuKdeo2Hj1WqS-9o_jAxSGw&type=album",
+      "price": "440",
+      "category_id": "2",
+      "description": "Бургер Комбо плюс"
+    },
+    {
+      "id": "009",
+      "title": "Цезарь с курицей",
+      "image_url": "https://sun9-56.userapi.com/impg/5-avgxukZnlSshgFl8N75LX8Vy-rRLcI6_KASA/crXI9I5KvRQ.jpg?size=510x680&quality=95&sign=8e456eb04f83e2d583b3d837dfc7bba1&c_uniq_tag=tZ8Ts29GR02EqPjhFENcmfzLxGstnV0UlZ8nRxVNwr0&type=album",
+      "price": "220",
+      "category_id": "1",
+      "description": "Цезарь с Курицей"
+    },
+    {
+      "id": "001y",
+      "title": "Сырные палочки",
+      "image_url": "https://sun9-13.userapi.com/impg/anGlK-gaFSyGXpSKJRybtvoR_X9jlcBkoTHmFQ/MlOsynRWDFI.jpg?size=510x765&quality=95&sign=58dafe96ad7dc28786381c36b2b24d19&c_uniq_tag=V-24UhuiZfIILKDKUoNk3lHXzsj8wYi6VvRXkUvO0Dw&type=album",
+      "price": "220",
+      "category_id": "0",
+      "description": "Сырные палочки"
+    },
+    {
+      "id": "744d",
+      "title": "Set Baked Rolls",
+      "description": "Set Baked Rolls",
+      "price": "510",
+      "image_url": "https://sun9-73.userapi.com/impg/sOisCysP1oetgjGbJe4C93EYGh5j5I6OiDimvQ/A5FuPRTXseY.jpg?size=510x680&quality=95&sign=36df9424510987b7d50d03f8ee75f05d&c_uniq_tag=QAw-QL51cTPjUIDyz0t8Gw8PhCHtn5F-AvtE_T68-Vk&type=album",
+      "category_id": "4"
+    },
+    {
+      "id": "7eaa",
+      "title": "Салат \"Греческий\"",
+      "description": "Салат \"Греческий\"",
+      "price": "200",
+      "image_url": "https://sun9-13.userapi.com/impg/8-oPWSfVX_P7zJK1SZ59-jH0mLXNled1Q_JjaA/ZP0RxQl2tgY.jpg?size=604x595&quality=95&sign=5493857392cc85d69cfb2e2b1590501b&c_uniq_tag=_Pm8I8XGrbHV0tnFz_XpbpfmTW-gRd6Yz7vHoE2AQCI&type=album",
+      "category_id": "1"
+    },
+    {
+      "id": "a438",
+      "title": "Луковые кольца",
+      "description": "Луковые кольца",
+      "price": "180",
+      "image_url": "https://sun9-79.userapi.com/impg/_CY8fgdia84LGa_9tuN7edfmlSX-p2A4sz5jcw/pN6YKMUscLc.jpg?size=807x538&quality=95&sign=5874cdeb54b9b838e4572fa17d4f1a8f&c_uniq_tag=UQ89Jg5dDBJZhsatQg4vwBE1hBatUXmfWrQGGN7m4uY&type=album",
+      "category_id": "0"
+    },
+    {
+      "id": "cab2",
+      "title": "Filka ULTRA",
+      "description": "Filka ULTRA",
+      "price": "400",
+      "image_url": "https://sun9-39.userapi.com/impg/Qyv4TDA_pAaLOA7g-YWSQinMuao31620Ln06cg/oG1uk4uuElA.jpg?size=510x680&quality=95&sign=0fcc89bd0ba13620e8df97b1f9e301df&c_uniq_tag=rgvAMOvyzHwJ37lyl6WUWIKxRnwye8Ia5JchiBmHoRg&type=album",
+      "category_id": "4"
+    },
+    {
+      "id": "fff3",
+      "title": "Пицца \"Цезарь\"",
+      "description": "Пицца \"Цезарь\"",
+      "price": "410",
+      "image_url": "https://sun9-77.userapi.com/impg/DtPPHheO7tNaP69Q4BQ-f1MepHBG8aQmz6pj1g/bT63CMcGc8Q.jpg?size=604x596&quality=95&sign=edb4b230970d10e5c7f5852f2846e0e1&c_uniq_tag=slEOtEq6Rv8i-UftZDzQ8ZunbFCPewEi12L-ZH9hO-g&type=album",
+      "category_id": "3"
+    },
+    {
+      "id": "76ab",
+      "title": "Пицца \"Гризли\"",
+      "description": "Пицца \"Гризли\"",
+      "price": "420",
+      "image_url": "https://sun9-21.userapi.com/impg/S6X2zfjYdKQzFMEM4FCi_99qRS_Iqbayn2Cnwg/2fUyeojgo6c.jpg?size=510x511&quality=95&sign=17eccf8e0330ea56a037e22e688f7d2b&c_uniq_tag=nMro8tAX5WE7tS5Ku1Futr2Zer6l0g_rwHR9_GkSqpg&type=album",
+      "category_id": "3"
+    },
+    {
+      "id": "9fe0",
+      "title": "Elite2.0 Rolls",
+      "description": "Elite2.0 Rolls",
+      "price": "280",
+      "image_url": "https://sun9-8.userapi.com/impg/-gsM7rBeT2yK4Bgg-m3TYYuYqh0lusS2m0K4Kw/vL3gaZ9cDNI.jpg?size=807x605&quality=95&sign=fb3482fab551eb3a0f93a7fe2961c3e9&c_uniq_tag=1U6CmDI9krK4fImnhV8bnz0nZqFgvfz6Pi36GCwnBGw&type=album",
+      "category_id": "4"
+    },
+    {
+      "id": "2b34",
+      "title": "Hotrave Rolls",
+      "description": "Hotrave Rolls",
+      "price": "270",
+      "image_url": "https://sun9-44.userapi.com/impg/c-jVf7o5r54qnp0xVAJEu64e-zZNHKVfrMGG9A/163DpSRfuCg.jpg?size=510x680&quality=95&sign=216eba80ddc4b83752e91865f4ed6eda&c_uniq_tag=olGM-v4v1YeHjkJS1xqiz23FoEqmFEYubFMxHFNHhBM&type=album",
+      "category_id": "4"
+    },
+    {
+      "id": "b5d1",
+      "title": "Картофель по-деревенски",
+      "description": "Картофель по-деревенски",
+      "price": "180",
+      "image_url": "https://sun9-57.userapi.com/impg/C3pr56FwAuh5ZaRAbXAxC889AIO0umxKjhUkeg/fgyFrcyPqVs.jpg?size=510x765&quality=95&sign=fcf1b1b22382001c767af72720c44811&c_uniq_tag=MBA1yI040vo15yl8idn-vyf1cBi7vxAmPwILFp8t9no&type=album",
+      "category_id": "0"
+    },
+    {
+      "id": "5709",
+      "title": "Set Sakura Rolls",
+      "description": "Set Sakura Rolls",
+      "price": "1100",
+      "image_url": "https://sun9-5.userapi.com/impg/5rb5j9lZPP23luloNLBkdfHARAHujPJ6d1FfEQ/LV-4YMFHlI8.jpg?size=510x680&quality=95&sign=475c36ad7e047628812c2ec5b6a15006&c_uniq_tag=wyhbbvUHigSnZxSb6wKATDoL1qQm7n0iPNyl93_2tr4&type=album",
+      "category_id": "4"
+    },
+    {
+      "id": "d78f",
+      "title": "Set Hot Rolls",
+      "description": "Set Hot Rolls",
+      "price": "530",
+      "image_url": "https://sun9-24.userapi.com/impg/_Mu6uxhEOGfPVprcnHK2WpcS7fVUb-_0oSJKPg/lFSzYrZAQFU.jpg?size=510x680&quality=95&sign=c21c2e905fb4a138f92c1b19a1797a7e&c_uniq_tag=zTFIpujwA5Fy_59y2qkTRfCTz-rW-OSgGCQsHamAOBs&type=album",
+      "category_id": "4"
+    },
+    {
+      "id": "b192",
+      "title": "Grant Rolls",
+      "description": "Grant Rolls",
+      "price": "260",
+      "image_url": "https://sun9-78.userapi.com/impg/K9WViqwOt0Py5Jo7yusqmKawnnYB_jUJX9rYow/2px9iRjAIgc.jpg?size=510x680&quality=95&sign=ea4577d3236203638dfc2a76bf8f7c12&c_uniq_tag=VGOiaWB3-_ds0QZylUwaGotOQ0uEyIM0rWQrhVxi0Zc&type=album",
+      "category_id": "4"
+    }
+  ],
+  "order": [
+    {
+      "id": "0370",
+      "delivery_terms": {
+        "name": "Максим",
+        "telephone": "89278222295",
+        "address": "Самара. Проспект Карла Маркса 196,кв 344",
+        "comment": "ffffffffff"
+      },
+      "published_at": "2024-04-11T12:25:06.042Z",
+      "products": [
+        {
+          "id": "006",
+          "title": "Бургер Комбо плюс",
+          "imageUrl": "https://sun9-47.userapi.com/impg/Bff_1lXcDHCX94PPDSRC-hP6lcShKfM4taqa5g/pUDzaxrV5eo.jpg?size=807x538&quality=95&sign=9d73c0eb56e819a509fff588a5f77a00&c_uniq_tag=v4ZxkjYJddofWE2_1cfpiuKdeo2Hj1WqS-9o_jAxSGw&type=album",
+          "price": "440",
+          "amount": 1
+        },
+        {
+          "id": "fff3",
+          "title": "Пицца \"Цезарь\"",
+          "imageUrl": "https://sun9-77.userapi.com/impg/DtPPHheO7tNaP69Q4BQ-f1MepHBG8aQmz6pj1g/bT63CMcGc8Q.jpg?size=604x596&quality=95&sign=edb4b230970d10e5c7f5852f2846e0e1&c_uniq_tag=slEOtEq6Rv8i-UftZDzQ8ZunbFCPewEi12L-ZH9hO-g&type=album",
+          "price": "410",
+          "amount": 1
+        },
+        {
+          "id": "b5d1",
+          "title": "Картофель по-деревенски",
+          "imageUrl": "https://sun9-57.userapi.com/impg/C3pr56FwAuh5ZaRAbXAxC889AIO0umxKjhUkeg/fgyFrcyPqVs.jpg?size=510x765&quality=95&sign=fcf1b1b22382001c767af72720c44811&c_uniq_tag=MBA1yI040vo15yl8idn-vyf1cBi7vxAmPwILFp8t9no&type=album",
+          "price": "180",
+          "amount": 1
+        },
+        {
+          "id": "cab2",
+          "title": "Filka ULTRA",
+          "imageUrl": "https://sun9-39.userapi.com/impg/Qyv4TDA_pAaLOA7g-YWSQinMuao31620Ln06cg/oG1uk4uuElA.jpg?size=510x680&quality=95&sign=0fcc89bd0ba13620e8df97b1f9e301df&c_uniq_tag=rgvAMOvyzHwJ37lyl6WUWIKxRnwye8Ia5JchiBmHoRg&type=album",
+          "price": "400",
+          "amount": 1
+        }
+      ],
+      "number_order": 0
+    },
+    {
+      "id": "60e8",
+      "delivery_terms": {
+        "name": "Максим",
+        "telephone": "89278222295",
+        "address": "Самара. Проспект Карла Маркса 196,кв 344",
+        "comment": "fffffffffddd"
+      },
+      "published_at": "2024-04-11T12:30:14.141Z",
+      "products": [
+        {
+          "id": "003",
+          "title": "Пивная тарелка",
+          "imageUrl": "https://sun9-51.userapi.com/impg/tPFzXwqh3KKZva4q9lR-4k0_Nl8KsMmnotpMEg/sg7jXmEbwI4.jpg?size=807x538&quality=96&sign=e77eace410c058dee9dc3371172a359a&c_uniq_tag=nblT3ZG2I2ooFN9NTWchuunbo7A8VLDYlv3ho05j4ps&type=none",
+          "price": "650",
+          "amount": 1
+        },
+        {
+          "id": "b5d1",
+          "title": "Картофель по-деревенски",
+          "imageUrl": "https://sun9-57.userapi.com/impg/C3pr56FwAuh5ZaRAbXAxC889AIO0umxKjhUkeg/fgyFrcyPqVs.jpg?size=510x765&quality=95&sign=fcf1b1b22382001c767af72720c44811&c_uniq_tag=MBA1yI040vo15yl8idn-vyf1cBi7vxAmPwILFp8t9no&type=album",
+          "price": "180",
+          "amount": 1
+        }
+      ],
+      "number_order": 0
+    },
+    {
+      "id": "5990",
+      "delivery_terms": {
+        "name": "Максим",
+        "telephone": "89278222295",
+        "address": "Самара. Проспект Карла Маркса 196,кв 344",
+        "comment": "kkkkkkkkkkkkkkkkkkkkkkk"
+      },
+      "published_at": "2024-04-12T06:24:05.911Z",
+      "products": [
+        {
+          "id": "003",
+          "title": "Пивная тарелка",
+          "imageUrl": "https://sun9-51.userapi.com/impg/tPFzXwqh3KKZva4q9lR-4k0_Nl8KsMmnotpMEg/sg7jXmEbwI4.jpg?size=807x538&quality=96&sign=e77eace410c058dee9dc3371172a359a&c_uniq_tag=nblT3ZG2I2ooFN9NTWchuunbo7A8VLDYlv3ho05j4ps&type=none",
+          "price": "650",
+          "amount": 1
+        },
+        {
+          "id": "001y",
+          "title": "Сырные палочки",
+          "imageUrl": "https://sun9-13.userapi.com/impg/anGlK-gaFSyGXpSKJRybtvoR_X9jlcBkoTHmFQ/MlOsynRWDFI.jpg?size=510x765&quality=95&sign=58dafe96ad7dc28786381c36b2b24d19&c_uniq_tag=V-24UhuiZfIILKDKUoNk3lHXzsj8wYi6VvRXkUvO0Dw&type=album",
+          "price": "220",
+          "amount": 1
+        },
+        {
+          "id": "b5d1",
+          "title": "Картофель по-деревенски",
+          "imageUrl": "https://sun9-57.userapi.com/impg/C3pr56FwAuh5ZaRAbXAxC889AIO0umxKjhUkeg/fgyFrcyPqVs.jpg?size=510x765&quality=95&sign=fcf1b1b22382001c767af72720c44811&c_uniq_tag=MBA1yI040vo15yl8idn-vyf1cBi7vxAmPwILFp8t9no&type=album",
+          "categoryId": "0",
+          "price": "180",
+          "description": "Картофель по-деревенски",
+          "amount": 1
+        }
+      ],
+      "number_order": 0
+    },
+    {
+      "id": "d5c8",
+      "delivery_terms": {
+        "name": "Максим",
+        "telephone": "89278222295",
+        "address": "Самара. Проспект Карла Маркса 196,кв 344",
+        "comment": "kkkkkkkkkkkkkkkkkkkkkkkkkkk"
+      },
+      "published_at": "2024-04-12T07:54:53.314Z",
+      "products": [
+        {
+          "id": "003",
+          "title": "Пивная тарелка",
+          "imageUrl": "https://sun9-51.userapi.com/impg/tPFzXwqh3KKZva4q9lR-4k0_Nl8KsMmnotpMEg/sg7jXmEbwI4.jpg?size=807x538&quality=96&sign=e77eace410c058dee9dc3371172a359a&c_uniq_tag=nblT3ZG2I2ooFN9NTWchuunbo7A8VLDYlv3ho05j4ps&type=none",
+          "categoryId": "0",
+          "price": "650",
+          "description": "Картофель Фри, Луковые кольца,Гренки,Крылышки барбекю) 320 грамм",
+          "amount": 1
+        },
+        {
+          "id": "001y",
+          "title": "Сырные палочки",
+          "imageUrl": "https://sun9-13.userapi.com/impg/anGlK-gaFSyGXpSKJRybtvoR_X9jlcBkoTHmFQ/MlOsynRWDFI.jpg?size=510x765&quality=95&sign=58dafe96ad7dc28786381c36b2b24d19&c_uniq_tag=V-24UhuiZfIILKDKUoNk3lHXzsj8wYi6VvRXkUvO0Dw&type=album",
+          "price": "220",
+          "amount": 1
+        }
+      ],
+      "number_order": 0
+    }
+  ],
+  "sessions": [
+    {
+      "id": "c2e0",
+      "hash": "0.24577374598392220939047092542750760912895202636719",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "7b59",
+      "hash": "0.51849405432838402418838086305186152458190917968750",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "c75b",
+      "hash": "0.97177439566669154835665267455624416470527648925781",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "612b",
+      "hash": "0.25946754845318631410577836504671722650527954101563",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "54e4",
+      "hash": "0.46227441741498176419611354504013434052467346191406",
+      "user": {
+        "id": "a50c",
+        "login": "Ksenia",
+        "password": "22218991",
+        "registeredAt": "2033-05-26 21:17",
+        "roleId": 1
+      }
+    },
+    {
+      "hash": "0.86138190985503571006631773343542590737342834472656",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      },
+      "id": "wB_GkQJ"
+    },
+    {
+      "id": "76bc",
+      "hash": "0.77818354689916890976064678397960960865020751953125",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      }
+    },
+    {
+      "id": "9e66",
+      "hash": "0.70563520785478095476150883769150823354721069335938",
+      "user": {
+        "id": "3d44",
+        "login": "Maksim",
+        "password": "424991",
+        "registeredAt": "2033-08-08 16:10",
+        "roleId": 0
+      }
+    }
+  ],
+  "foto": [
+    {
+      "id": "001",
+      "image_url": "https://sun9-4.userapi.com/impg/EmzOTy-xuTjKFElfuuf7HJeNyYo_0NpMsuFyqw/o6r6RzRdlOM.jpg?size=1920x1280&quality=95&sign=eda7eed90db62110d05db58f4dd379d8&type=album"
+    },
+    {
+      "id": "002",
+      "image_url": "https://sun9-30.userapi.com/impg/q3Zhv2hkRLzlSRqiR4hsmi9x_Ogu4WRHW7wdpA/iPD2yQu_PIs.jpg?size=1920x1305&quality=95&sign=590e9cd691ffb0974d7b57347e6f86b7&type=album"
+    },
+    {
+      "id": "003",
+      "image_url": "https://sun9-47.userapi.com/impg/S0dEZ4ME8UpaUPF7hkhpfbbWbgyG8n5ruQmAwA/xiDi9pQyqts.jpg?size=1920x1280&quality=95&sign=690013efaaeeaacc25f683ddf03652ce&type=album"
+    },
+    {
+      "id": "004",
+      "image_url": "https://sun9-5.userapi.com/impg/v8DOoFVOrdUeiZ17gex4H5htZjms7Ok6igNuhA/FamSMEueL6A.jpg?size=1920x1309&quality=95&sign=cc157858329b4af8d7ca0a42fa1165b4&type=album"
+    },
+    {
+      "id": "005",
+      "image_url": "https://sun9-6.userapi.com/impg/ox_bfItD4v0KwttHdndvt1at3H43W_NQJ82pig/ZUe6SU1vw64.jpg?size=1920x1280&quality=95&sign=e51c84ae7041b26105edaf571b7e51f6&type=album"
+    },
+    {
+      "id": "006",
+      "image_url": "https://sun9-12.userapi.com/impg/2eEhjCYI72icMHjF0P18IG0p-OTJko-AOeykLQ/6jC-sUn7w0I.jpg?size=1920x1346&quality=95&sign=864adc1500a6540f002d93e97030b3b1&type=album"
+    },
+    {
+      "id": "007",
+      "image_url": "https://sun9-8.userapi.com/impg/wde5pxnkTTwKPtCIeOW-xzogRtEoxOP9-TBjqQ/-13BTOGAdMw.jpg?size=1920x1298&quality=95&sign=ef1776ac999c2ba9d7d7b00187d9b292&type=album"
+    },
+    {
+      "id": "008",
+      "image_url": "https://sun9-73.userapi.com/impg/Zptnb8qr5LfLno8Ty_yeu4ZySUR1khYs5RIEgQ/TE_DqRX_LpY.jpg?size=1920x1280&quality=95&sign=c07a1b6e59803d65bdca3ec693af3966&type=album"
+    }
+  ]
+}
